@@ -40,6 +40,12 @@ In this project I have added features that adds extra functionality and improves
 
 - Opened an issue: [[#11]](https://github.com/xprilion/fireshort/issue/11) [BUG: UI] `LinearProgress` component is not showing its intended behavior
 
+## Future Scope
+This project has a lot of scope for future work. Some of the ideas for future work include :-
+
+- The project used class based components where state management is required, which makes it more verbose. Such files could use functional components and use react hooks for state management which reduces the number of lines of code and also makes it more easily understandable.
+- We can have grouped cards layouts.
+
 ## Acknowledgments
 I had an exciting winter of 2020, working on Fireshort under the Winter of Code program. I am glad to be mentored by Anubhav Singh (thanks for your valuable tips and advices about open-source contributions and good practices. Thanks for reviewing and going through all my PRs online and giving me feedback about the mistakes I have done in my works). It really helped me to get exposure about GSoC process. I feel lucky for the exposure I got from this event.
 
