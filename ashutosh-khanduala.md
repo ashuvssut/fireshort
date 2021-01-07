@@ -1,6 +1,8 @@
-<h3 align="center">Ashutosh Khanduala</h3>
+# Developer - Winter of Code 2020
 
-# Fireshort - Winter of Code 2020
+# Ashutosh Khanduala
+
+<h2 align="center">FireShort</h2>
 
 <p align="center">
   <img width="100" height="100" src="https://raw.githubusercontent.com/xprilion/fireshort/master/public/logo.png">
